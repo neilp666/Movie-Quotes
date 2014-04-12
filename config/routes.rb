@@ -1,5 +1,5 @@
 Blogger::Application.routes.draw do
-
+  resources :hearts, only: :create
   resources :posts
 
   get "about" => 'pages#about'
