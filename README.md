@@ -1,3 +1,6 @@
-== README
+Movie Quotes App
 
-basic blogger app 
+Heart your favourite movie quotes !
+
+Rails 4.0.4
+Ruby 2.0.0
