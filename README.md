@@ -1,0 +1,3 @@
+== README
+
+basic blogger app 
